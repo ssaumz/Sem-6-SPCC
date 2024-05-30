@@ -1,4 +1,4 @@
-//***CHIT 1***
+//***1***
 //1. create your own ‘C’ library using macros to find factorial of a number
  #include <stdio.h>
  #define FACTORIAL(n) \
@@ -105,7 +105,7 @@ for key, value in quadruples.items():
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-//***Chit2***
+//***2***
 //1. Program to convert the given computation into three address code
 
 def precedence(c):
@@ -198,7 +198,7 @@ return 0;
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-//***Chit3***
+//***3***
 //1.  Program to create your own ‘C’ library using macros that can find the area of square
  and rectangle.
 #define SQUARE(n) n*n
@@ -318,7 +318,7 @@ for key, value in triples.items():
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-//***Chit4***
+//***4***
 //Consider the following program, Display the Pass-1 of the Program
  START 501
  ADS1
@@ -453,7 +453,7 @@ for symbol in symbol_table:
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-//***Chit5***
+//***5***
 //1. Write a program to remove left recursion from a given context free grammar.
  Nonterminal ={S,L} terminal={( , x, , ,) }
  S--> (L)|x
@@ -544,7 +544,7 @@ return 0;
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-//***Chit6***
+//***6***
 //1.  Write a program to optimize the given three address code.
  T1= 5*3+10 //Constant folding
  T3=T1      //Copy propagation
@@ -662,7 +662,7 @@ int main()
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-//***Chit7***
+//***7***
 //1. Lex program to count the number of tokens with uppercase and lowercase characters.
 %option noyywrap
 %{
@@ -748,7 +748,7 @@ if __name__ == '__main__':
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-//***Chit8***
+//***8***
 //1. Write a program to create your own ‘C’ library using macros for conversions.
  (binary ⬄ decimal, binary ⬄ hexadecimal)
 //macro:
@@ -936,7 +936,7 @@ if __name__ == '__main__':
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-//***Chit9***
+//***9***
 //1. Write a program to remove Left Factoring from the given grammar
  A—->bE+acF | bE+F
 
@@ -1081,7 +1081,7 @@ for key, value in triples.items():
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-//***Chit10***
+//***10***
 //WAP to implement Two Pass Macro Processor for the following.
 (place this in source.txt)
  MACRO
@@ -1186,7 +1186,7 @@ print_solution()
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-//***Chit11***
+//***11***
 //1. Write a program to display assembly / target code for the following 3AC statements.
  t =a-b
  u =a-c
@@ -1303,7 +1303,7 @@ int main()
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
-//***Chit12***
+//***12***
 //1.  Write a program to optimize the given three address code.
  T1= 5*3+10 //Constant folding
  T3=T1      //Copy propagation
@@ -1414,4 +1414,3 @@ int main()
         printf("The greatest number is %d\n",MAX(num1,num2));
         return 0;
 }
-C:\Users\Saumya Poojari>
